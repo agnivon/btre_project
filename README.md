@@ -32,6 +32,64 @@ This Django-based real estate platform redefines the way we experience property 
 
 # Contribute:
 - We welcome contributions from the open-source community to enhance features, fix bugs, or suggest improvements.
-- Check out our [Contribution Guidelines] for details on how to get started.
+- Check out our Contribution Guidelines for details on how to get started.
+
+# Contribution Guidelines
+
+We appreciate your interest in contributing to our Innovative Django Real Estate Website! By contributing, you help make our platform even better. Before you start, please take a moment to review our guidelines:
+
+## Getting Started
+
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/Innovative-Django-Real-Estate-Website.git
+   ```
+
+3. Create a new branch for your contribution:
+
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+
+4. Make your changes and ensure the code is well-documented.
+
+## Commit Guidelines
+
+1. Follow [Conventional Commits](https://www.conventionalcommits.org/) for clear and consistent commit messages.
+
+   Example commit messages:
+   - `feat: add new property detail page`
+   - `fix: resolve issue with user authentication`
+
+2. Keep each commit focused on a specific task.
+
+## Pull Requests
+
+1. Open a pull request (PR) from your forked branch to our `main` branch.
+2. Clearly describe the purpose of your PR and provide any relevant information.
+3. Ensure your code passes any existing tests.
+
+## Code Style
+
+1. Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) for Python code style.
+2. Use clear and meaningful variable/function names.
+
+## Testing
+
+1. Write tests for new features and ensure existing tests pass.
+2. Run tests locally before submitting a PR.
+
+## Documentation
+
+1. Update relevant documentation for any changes made.
+2. Clearly document new features or modifications.
+
+## Code of Conduct
+
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) during your contribution process.
+
+Thank you for contributing to our Innovative Django Real Estate Website! 🌟🏡
 
 Let's revolutionize the real estate experience together! 🚀🏡
